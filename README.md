@@ -1,4 +1,3 @@
-EchoSphere
 EchoSphere is a decentralized communication tool for Android. It allows users to broadcast and receive short text messages to nearby devices without using internet, cellular data, Wi-Fi, or Bluetooth pairing.
 
 Operational Overview
