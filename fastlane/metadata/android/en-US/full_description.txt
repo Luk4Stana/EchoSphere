@@ -1,0 +1,21 @@
+EchoSphere: Decentralized Off-Grid Messaging
+
+EchoSphere is a lightweight communication tool designed for scenarios where traditional networks fail. Whether you are hiking in remote areas, attending a crowded festival with jammed cellular data, or facing a network outage, EchoSphere keeps you connected.
+
+How it works:
+Unlike standard messaging apps, EchoSphere does not require the internet, Wi-Fi, or cellular data. It doesn't even require Bluetooth pairing. By leveraging Bluetooth Low Energy (BLE) Advertising technology, the app broadcasts short text messages directly into the surrounding environment. Any device within range running EchoSphere can instantly detect and display these messages.
+
+Key Features:
+
+True Off-Grid Freedom: Communicate anywhere, from deep woods to underground basements, without any infrastructure.
+
+Zero Configuration: No accounts, no phone numbers, and no complex pairing processes. Just open the app and start broadcasting.
+
+Real-Time Radar: Monitor local activity through an intuitive visual interface that shows identified nearby devices and incoming broadcasts.
+
+Privacy by Design: EchoSphere collects zero data. There are no servers, no logs, and no tracking. Your messages exist only in the air around you.
+
+Open Source: Built with Kotlin and Jetpack Compose, EchoSphere is transparent and community-driven.
+
+Limitations:
+The effective range is typically between 10 and 30 meters, depending on environmental factors and smartphone hardware. It is designed for short-range, immediate coordination and emergency use.
