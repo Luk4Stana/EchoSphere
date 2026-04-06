@@ -3,6 +3,11 @@ EchoSphere is a decentralized communication tool for Android. It allows users to
 Operational Overview
 The application uses Bluetooth Low Energy (BLE) Advertising technology. Instead of establishing a point-to-point connection, the app broadcasts small data packets into the surrounding environment. Any device within range running EchoSphere can detect these packets and display the message.
 
+<p align="center">
+  <img src="screenshots/Screen_Start.jpg" width="300" />
+  <img src="screenshots/Screen_Research.jpg" width="300" />
+</p>
+
 Range and Limitations
 The effective communication radius is typically between 10 and 30 meters (30 to 100 feet).
 
