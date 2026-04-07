@@ -39,3 +39,7 @@ Protocol: BLE Advertising (Manufacturer Specific Data)
 
 License
 This project is licensed under the GNU General Public License v3.0 (GPL-3.0).
+
+----------------------------------------------------------
+
+If you find this project interesting, please leave a star!
